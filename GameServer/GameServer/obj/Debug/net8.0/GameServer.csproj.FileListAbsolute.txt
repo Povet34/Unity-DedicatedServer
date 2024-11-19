@@ -1,0 +1,15 @@
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\bin\Debug\net8.0\GameServer.exe
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\bin\Debug\net8.0\GameServer.deps.json
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\bin\Debug\net8.0\GameServer.runtimeconfig.json
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\bin\Debug\net8.0\GameServer.dll
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\bin\Debug\net8.0\GameServer.pdb
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.AssemblyInfoInputs.cache
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.AssemblyInfo.cs
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.csproj.CoreCompileInputs.cache
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.sourcelink.json
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.dll
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\refint\GameServer.dll
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.pdb
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\GameServer.genruntimeconfig.cache
+E:\Unity's Contents\Unity-DedicatedServer\GameServer\GameServer\obj\Debug\net8.0\ref\GameServer.dll

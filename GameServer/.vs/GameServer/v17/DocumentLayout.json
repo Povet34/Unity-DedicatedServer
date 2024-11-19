@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7043B-546C-4D76-9E2A-388C5DA817CE}|GameServer\\GameServer.csproj|e:\\unity\u0027s contents\\unity-dedicatedserver\\gameserver\\gameserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA7043B-546C-4D76-9E2A-388C5DA817CE}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7043B-546C-4D76-9E2A-388C5DA817CE}|GameServer\\GameServer.csproj|e:\\unity\u0027s contents\\unity-dedicatedserver\\gameserver\\gameserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA7043B-546C-4D76-9E2A-388C5DA817CE}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7043B-546C-4D76-9E2A-388C5DA817CE}|GameServer\\GameServer.csproj|e:\\unity\u0027s contents\\unity-dedicatedserver\\gameserver\\gameserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA7043B-546C-4D76-9E2A-388C5DA817CE}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\GameServer\\Client.cs",
+              "RelativeDocumentMoniker": "GameServer\\Client.cs",
+              "ToolTip": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\GameServer\\Client.cs",
+              "RelativeToolTip": "GameServer\\Client.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwCwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:22:06.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\GameServer\\Program.cs",
+              "RelativeDocumentMoniker": "GameServer\\Program.cs",
+              "ToolTip": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\GameServer\\Program.cs",
+              "RelativeToolTip": "GameServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:55:52.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\GameServer\\Server.cs",
+              "RelativeDocumentMoniker": "GameServer\\Server.cs",
+              "ToolTip": "E:\\Unity\u0027s Contents\\Unity-DedicatedServer\\GameServer\\GameServer\\Server.cs",
+              "RelativeToolTip": "GameServer\\Server.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:06:45.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
